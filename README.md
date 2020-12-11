@@ -1,0 +1,2 @@
+# Virtual-Gamepad-To-USB
+The main purpose of this repo is to allow for remote FTC robot programming via parsec using some sort of modded gamepad so that an Arduino can control it. &lt;/br> This isn't the only possible use, but it is the intended purpose. If you modified the controller properly, you could control nearly anything with this. For example: if you have a capture card on your desktop that you can use as a camera input, you can control a Nintendo Switch remotely. I used the Switch as an example because Nintendo hasn't made any remote play software.
